@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
-  * _isupper - Checks if a character is upper case or lower case
-  * @c: integer to be checked
+  * _isupper - uppercase letters
+  * @c: char to check
   *
   * Return: 1 or 0
   */
@@ -17,5 +17,4 @@ int _isupper(int c)
 	{
 		return (0);
 	}
-	_putchar('\n');
 }
