@@ -8,16 +8,14 @@
 
 int main(void)
 {
-	int chr_val[] = {95, 112, 117, 116, 99, 104, 97, 114};
-	int count, sz;
-
-	sz = sizeof(chr_val) / sizeof(int);
-
-	for (count = 0; count < sz; count++)
-	{
-		_putchar(chr_val[count]);
-	}
-	_putchar('\n);
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
 
 return (0)
 }
