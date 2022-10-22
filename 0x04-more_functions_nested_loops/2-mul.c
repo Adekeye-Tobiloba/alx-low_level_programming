@@ -6,7 +6,9 @@
   * @: second num
   * Return: result of multiplication
   */
+
 int mul(int a, int b)
 {
 	return (a * b);
+
 }
