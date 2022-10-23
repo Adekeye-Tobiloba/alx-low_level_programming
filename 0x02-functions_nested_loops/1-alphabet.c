@@ -4,7 +4,7 @@
   * print alphabet - print all alphabets
   */
 
-void print_alphabet(void);
+void print_alphabet(void)
 {
 	char letter;
 	
