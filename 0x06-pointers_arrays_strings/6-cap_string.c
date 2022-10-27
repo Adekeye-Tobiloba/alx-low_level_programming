@@ -13,7 +13,7 @@ char *cap_string(char *x)
 	int a = 0, i;
 
 	while (x[a])
-	{	
+	{
 		i = 0;
 		while (i < len)
 		{
